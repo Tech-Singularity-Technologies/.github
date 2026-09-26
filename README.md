@@ -1,8 +1,8 @@
-# TechSingularity
+# Tech Singularity
 
 ### Enterprise Software, AI & Digital Product Engineering
 
-[TechSingularity](https://techsingularity.com/) is a software engineering and AI development company founded in 2008, helping businesses build, modernize, and scale secure digital products.
+[Tech Singularity](https://techsingularity.com/) is a software engineering and AI development company founded in 2008, helping businesses build, modernize, and scale secure digital products.
 
 We engineer technology across:
 
